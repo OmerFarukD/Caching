@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N5plWmUBWhlfESp22Ajcod11AIDNFGahxEZjSKSrZLc=",
+  "Source": "InMemoryApp.WebAPI",
+  "BasePath": "_content/InMemoryApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

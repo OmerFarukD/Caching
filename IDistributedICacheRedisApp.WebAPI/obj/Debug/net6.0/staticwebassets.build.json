@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2i9LXFJDYh3jzI9hnYs05RkoIyGGXIhPRNM3r3fomWo=",
+  "Source": "IDistributedICacheRedisApp.WebAPI",
+  "BasePath": "_content/IDistributedICacheRedisApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
